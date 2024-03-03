@@ -1,0 +1,82 @@
+nav {
+    background-color: #F8F4F0;
+}
+
+nav div .nav-link {
+    color: black;
+    margin-right: 20px;
+}
+
+nav div .nav-link:hover {
+    font-weight: bold;
+}
+
+figcaption {
+    color: gray;
+    font-style: italic;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+#heroSection {
+    background-color: #F8F4F0;
+    height: 130vh;
+}
+
+#education {
+    background-color: #F8F4F0;
+    height: 100vh;
+}
+
+#about {
+    background-color: #F8F4F0;
+    height: 90vh;
+}
+
+#about p {
+    font-size: 20px;
+}
+
+#experience {
+    background-color: #F8F4F0;
+    height: 80vh;
+}
+
+#experience p {
+    font-size: 20px;
+}
+
+#lepkom {
+    background-color: #F8F4F0;
+    height: 80vh;
+}
+
+#portofolio {
+    background-color: #F8F4F0;
+    height: 180vh;
+}
+
+.main-section img{
+    border-radius: 5px;
+    transition: transform 0.2s ease;
+}
+
+.main-section p {
+    font-weight: bold;
+}
+
+.main-section img:hover {
+    transform: scale(1.1); /* Atur skala gambar saat hover di sini */
+}
+
+#footer {
+    background-color: #D7C8C1;
+    height: 15vh;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 30px;
+}
+
+
